@@ -1,0 +1,7 @@
+{
+    "codeConnect": {
+        "include": ["packages/primeng/src/**/*.figma.ts"],
+        "label": "Angular",
+        "sourceUrlTemplate": "https://github.com/mike-xds/prime-ng/blob/master/{filePath}"
+    }
+}
